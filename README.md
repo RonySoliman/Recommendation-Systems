@@ -1,1 +1,4 @@
-# Recommendation-Systems-
+# Recommendation Systems
+
+Spending few weeks working on the idea/implementation of this project. Simply put the idea of this recommendation system is to implement practical models to recommend items based on users history logs. Ive used Apriori & FP-Growth to resemble Basket Analysis that can address the question is the user is interested in item (X) should I recommend item (Y) or something else. This analysis is based on performnce measurements starting from the confidence AKA accuracy, Support threshold w.r.t the life metric as well.
+BTW Apriori & FP-Growth algorithms are consider Association Rules Mining these are heavily used by Amazon, Booking, Airlines, these platforms are built on using recommendation systems. You can check the next image to understand the different startagies that drive $$$$ to these corporates. 
